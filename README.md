@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I love pasta and Pure Barre
